@@ -1,4 +1,4 @@
 trisula
 =======
 
-spk_saw_ksp_trisula
+Aplikasi SPK dengan metode SAW
